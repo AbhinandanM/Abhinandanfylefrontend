@@ -1,5 +1,4 @@
 # Frontend for Fyle coding Challenge
-A single page web app built using ReactJS. The app should list and search for banks that are fetched from the API mentioned below. There should be a dropdown for cities (just put in 5 cities in there) and there is a search bar. As I type in the search area, the table should be dynamically filtered (client-side filtering). Search should be across all fields.
 
 ## Essentials
 1.	bank search screen which would show a list of banks
@@ -10,7 +9,7 @@ A single page web app built using ReactJS. The app should list and search for ba
 
 The backend API to get a list of banks of Mumbai: http://abhinandanfylechallenge.pythonanywhere.com/api/?format=json&search=MUMBAI 
 
-Application hosted URL: 
+Application hosted URL: https://abhinandanfylefrontend.herokuapp.com
 
 ## For any query:
  contact : mabhinandan41@gmail.com
