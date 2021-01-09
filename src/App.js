@@ -59,7 +59,7 @@ export default class App extends React.Component {
     } else {
       axios  
         .get(
-          "http://abhinandanfylechallenge.pythonanywhere.com/api/?format=json&search=" +
+          "https://abhinandanfylechallenge.pythonanywhere.com/api/?format=json&search=" +
             dropDownValue.value
         )
         .then(res => {
